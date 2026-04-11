@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋 I'm Alina
 
-<!--
-**buildwithalina/buildwithalina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I am learning Artificial Intelligence and Web Development  
+🚀 I love building projects and improving my skills every day  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- HTML
+- CSS
+- JavaScript (Learning)
+- Python
+- C++
+- Artificial Intelligence
+
+---
+
+## 📂 Projects
+- 🌐 Portfolio Website (HTML, CSS)  
+- 💻 C++ Projects  
+
+---
+
+## 🌐 Portfolio
+https://buildwithalina.github.io/Portfolio/
+
+---
+
+## 📫 Contact Me
+📧 pinkheart066@gmail.com
+
+---
+
+## 🎯 Goal
+To become an AI Engineer
